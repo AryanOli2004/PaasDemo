@@ -1,4 +1,4 @@
-echo '{
-    "root": ".",
-    "clean_urls": false
-}'
+{
+  "root": ".",
+  "clean_urls": true
+}
