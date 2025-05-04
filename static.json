@@ -1,4 +1,7 @@
-echo '{
-    "root": ".",
-    "clean_urls": false
-}'
+{
+  "root": "public",
+  "clean_urls": true,
+  "routes": {
+    "/**": "index.html"
+  }
+}
